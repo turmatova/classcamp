@@ -695,6 +695,10 @@ line-height: 30px;
 letter-spacing: 0.1599999964237213px;
   }
 }
+h1{
+  color: white;
+    font-size: 22px;
+}
 .footer-icons{
   display: flex;
   gap: 15px;
